@@ -1,4 +1,4 @@
-# cockpit
+# Cockpit
 
 Visualise local food system logistics
 
